@@ -1,0 +1,2 @@
+# Laravel-Instgram-Clone
+ Welcome to our Instagram clone project built with Laravel! This repository contains the source code for a comprehensive Instagram-like web application developed using the Laravel PHP framework. With a focus on replicating the core features of Instagram, this project offers users the ability to upload, share, and engage with images, fostering a vibrant community-driven platform.
